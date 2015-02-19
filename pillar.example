@@ -4,4 +4,4 @@ common_pkg:
     - tcptraceroute
     - nc
     - bind-utils
-    - vim
+    - vim-enhanced
