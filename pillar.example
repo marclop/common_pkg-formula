@@ -1,0 +1,7 @@
+common_pkg:
+  pkgs:
+    - sysstat
+    - tcptraceroute
+    - nc
+    - bind-utils
+    - vim
